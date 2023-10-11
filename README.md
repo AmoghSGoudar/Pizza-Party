@@ -2,7 +2,7 @@
 
 Pizza-Toppings 
 
-Tommatoes
-Onions
-Olives
-Capsicum
+Tommatoes  
+Onions  
+Olives  
+Capsicum  
