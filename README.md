@@ -1,6 +1,6 @@
 # Pizza-Party
 
-Pizza-Toppings 
+## Pizza-Toppings 
 
 Tomatoes  
 Onions  
